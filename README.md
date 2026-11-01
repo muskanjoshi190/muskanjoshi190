@@ -192,9 +192,11 @@ B.Tech – Computer Science Engineering | 2023 – 2027
 
 ## 🐍 Contribution Activity
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muskanjoshi190&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskanjoshi190&theme=tokyonight" width="100%" />
 
 </div>
 
