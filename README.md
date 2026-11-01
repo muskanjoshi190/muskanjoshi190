@@ -1,99 +1,112 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,50:256D85,100:48A9A6&height=190&section=header&text=Muskan%20Joshi&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Developer%20%7C%20CSE%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=68&descSize=17&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:101F3C,50:164E63,100:0F766E&height=210&section=header&text=MUSKAN%20JOSHI&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20AI%20%26%20TECHNOLOGY&descSize=15&descAlignY=66&animation=fadeIn" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muskan-joshi-140310341">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Computer Science Engineering Student
+
+*Building meaningful solutions through code, creativity and continuous learning.*
+
+<br/>
+
 <a href="https://github.com/muskanjoshi190">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/muskan-joshi-140310341">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## ABOUT ME
 
-```java
-public class MuskanJoshi {
+I'm **Muskan Joshi**, a Computer Science Engineering student at Prestige Institute of Engineering Management and Research (PIEMR), with an interest in software development, artificial intelligence, and emerging technologies.
 
-    String education = "B.Tech CSE | PIEMR";
-    String role = "Developer & Technology Enthusiast";
+I enjoy learning by building projects, solving problems, and experimenting with technologies to turn ideas into practical applications.
 
-    String[] interests = {
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Problem Solving"
-    };
-
-    String mindset = "Learn • Build • Improve";
-}
-```
-
-I'm a Computer Science Engineering student who enjoys developing practical applications and exploring innovative technologies. I believe in continuous learning, hands-on experience, and building solutions that make a difference.
-
-- 🎓 B.Tech CSE — PIEMR (2023–2027)
-- 💡 Interested in software development and AI-driven solutions
-- 🚀 Learning through real-world projects and experimentation
-- 🤝 Open to collaboration and new opportunities
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (2023–2027)
+- 💻 Interested in Java, Python, Web Development and AI/ML
+- 🧩 Enjoy building practical and user-focused applications
+- 🌱 Focused on continuous learning and technical growth
+- 🤝 Open to meaningful collaborations and opportunities
 
 ---
 
-## ⚙️ Tech Stack
+## TECHNOLOGY & TOOLS
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web Development**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Database & Development Tools**
+**Database & Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**AI & Computer Vision**
+**AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=sklearn,opencv" />
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## SELECTED PROJECTS
+
+A selection of projects focused on practical problem-solving and hands-on development.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. FileSense AI
+<h3>01 · FileSense AI</h3>
 
-**Intelligent File Management System**
+**AI-Powered Intelligent File Management System**
 
-A desktop application that makes file management smarter with semantic search, duplicate detection, automated organization, and sensitive-data detection.
+A desktop application designed to make file management smarter with semantic search, duplicate detection, automated organization, and sensitive-data detection.
 
-**Tech:** Python · PyWebView · Scikit-learn · HTML · CSS · JavaScript
+**Core Technologies**
+
+`Python` `PyWebView` `Scikit-learn` `HTML` `CSS` `JavaScript`
+
+<br/>
 
 <a href="https://github.com/muskanjoshi190/FileSense-AI">
-<img src="https://img.shields.io/badge/Explore%20Repository-256D85?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-164E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02. StudySync AI
+<h3>02 · StudySync AI</h3>
 
 **Student Productivity & Study Planner**
 
-A web application to manage subjects, track syllabus progress, organize tasks, plan exams, and generate rule-based study schedules.
+A web application for managing subjects, monitoring syllabus progress, organizing tasks, planning exams, and generating rule-based study schedules.
 
-**Tech:** Python · Flask · SQLite · HTML · CSS · JavaScript
+**Core Technologies**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+
+<br/>
 
 <a href="https://github.com/muskanjoshi190/StudySync-AI">
-<img src="https://img.shields.io/badge/Explore%20Repository-256D85?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-164E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -101,27 +114,31 @@ A web application to manage subjects, track syllabus progress, organize tasks, p
 <tr>
 <td width="50%" valign="top">
 
-### 03. Python Data Analytics
+<h3>03 · Python Data Analytics</h3>
 
 **Data Analysis & Visualization Practice**
 
-A collection of hands-on Python exercises covering data manipulation, CSV handling, statistical analysis, and data visualization.
+A hands-on collection of Python exercises exploring data manipulation, CSV operations, statistical functions, and data visualization.
 
-**Tech:** Python · Pandas · NumPy · Matplotlib
+**Core Technologies**
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+<br/>
 
 <a href="https://github.com/muskanjoshi190/Python-Data-Analytics-Practice">
-<img src="https://img.shields.io/badge/Explore%20Repository-256D85?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-164E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### What I Focus On
+<h3>MY DEVELOPMENT APPROACH</h3>
 
-- Writing clean and maintainable code
-- Building useful applications
-- Exploring AI and machine learning
-- Learning new development technologies
+- Write readable and maintainable code.
+- Learn through practical implementation.
+- Explore new tools and technologies.
+- Build solutions that address real problems.
 
 </td>
 </tr>
@@ -129,31 +146,33 @@ A collection of hands-on Python exercises covering data manipulation, CSV handli
 
 ---
 
-## 💼 Experience & Leadership
+## EXPERIENCE & LEADERSHIP
 
-**Technical Sub-Head | PIEMR AI Club**  
-*2025 – 2026*
+**Technical Sub-Head — PIEMR AI Club**  
+<sub>2025 – 2026</sub>
 
 - Contributed to technical event planning and execution.
-- Guided and supported the technical team during club activities.
+- Guided and supported the technical team during AI Club activities.
 
-**Java Full Stack Developer Trainee | Infoviaan Technologies, Indore**  
-*March 2024 – June 2024*
+**Java Full Stack Developer Trainee — Infoviaan Technologies, Indore**  
+<sub>March 2024 – June 2024</sub>
 
 - Gained practical exposure to Java Full Stack Development.
 - Strengthened programming and web development fundamentals.
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
-**B.Tech — Computer Science & Engineering**  
-Prestige Institute of Engineering Management and Research (PIEMR)  
+**Bachelor of Technology — Computer Science & Engineering**
+
+Prestige Institute of Engineering Management and Research (PIEMR)
+
 2023 – 2027
 
 ---
 
-## 🏅 Certifications
+## CERTIFICATIONS & LEARNING
 
 - Java Full Stack Development — Infoviaan Technologies
 - Design Thinking and Community-Based Design — IUCEE
@@ -166,24 +185,24 @@ Prestige Institute of Engineering Management and Research (PIEMR)
 
 ---
 
-## 🤝 Connect With Me
+## LET'S CONNECT
+
+I'm always open to connecting with people who share an interest in technology, software development, and innovation.
 
 <div align="center">
 
-I'm always excited to connect, collaborate, and learn from the developer community.
-
 <a href="https://www.linkedin.com/in/muskan-joshi-140310341">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muskanjoshi190">
-<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Turning curiosity into code and ideas into solutions."**
+**Learning with purpose. Building with passion. Growing every day.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:48A9A6&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101F3C,100:0F766E&height=100&section=footer"/>
 
 </div>
