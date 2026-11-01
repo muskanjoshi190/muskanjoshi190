@@ -17,43 +17,71 @@
 
 ---
 
-## ABOUT ME
+## 👩‍💻 ABOUT ME
 
-I'm **Muskan Joshi**, a Computer Science Engineering student focused on software development and practical problem-solving.
+I'm **Muskan Joshi**, a Computer Science Engineering student interested in software development, application building, and problem-solving.
 
-I work with Java, Python, databases and web technologies, and enjoy building applications that combine useful functionality with clean design.
+I enjoy developing practical software solutions using programming languages, databases, and modern development technologies.
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering at PIEMR, Indore.
-- 💻 Experience with Java, Python, SQL and Web Development.
-- 🚀 Developed projects in full-stack development and intelligent file management.
-- 🧠 Interested in software engineering and problem-solving.
+- 🎓 B.Tech in Computer Science & Engineering at PIEMR, Indore.
+- 💻 Working with Java, Python, C++, SQL, and Web Technologies.
+- 🚀 Building software applications and intelligent solutions.
+- 🧠 Exploring Data Structures, Machine Learning, and Software Engineering.
 - 🤝 Technical Sub-Head at PIEMR AI Club.
 
-## TECHNICAL SKILLS
+---
 
-<div align="center">
+## 🛠️ TECHNICAL SKILLS
 
-**Programming Languages**
+### Programming Languages
 
+<div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
-
 </div>
 
-**AI & Machine Learning:** Scikit-learn, OpenCV, YOLOv8, ByteTrack
+`Java` · `Python` · `C++` · `JavaScript`
 
-**Core Concepts:** OOP, DBMS, Machine Learning, Responsive Web Design
+### Web Development
 
-**Techniques:** TF-IDF, Cosine Similarity, Levenshtein Distance, SHA-256
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
+</div>
 
-## FEATURED PROJECTS
+`HTML5` · `CSS3` · `Bootstrap` · `Flask`
+
+### Databases
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</div>
+
+`MySQL` · `SQLite`
+
+### Development Tools
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
+
+`Git` · `GitHub` · `Visual Studio Code`
+
+### AI & Machine Learning
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+</div>
+
+`Scikit-learn` · `OpenCV` · `YOLOv8` · `ByteTrack`
+
+### Core Concepts & Techniques
+
+- **Computer Science:** OOP, DBMS, Machine Learning, Responsive Web Design
+- **Text Processing:** TF-IDF, Cosine Similarity, Levenshtein Distance
+- **Security:** SHA-256 Hashing
+
+---
+
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -63,14 +91,14 @@ I work with Java, Python, databases and web technologies, and enjoy building app
 
 **Smart Student Planner**
 
-A web application for organizing academic activities and improving study planning.
+A web-based application designed to help students organize academic activities and manage their study schedules.
 
 - Subject and task management
 - Exam schedules and countdowns
 - Rule-based timetable generation
 - Academic dashboard and focus timer
 
-**Tech Stack:** Python · Flask · SQLite · JavaScript
+**Technologies:** Python · Flask · SQLite · JavaScript
 
 <a href="https://github.com/muskanjoshi190/StudySync-AI">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
@@ -83,14 +111,14 @@ A web application for organizing academic activities and improving study plannin
 
 **Intelligent File Management**
 
-A desktop application for file organization, semantic search and duplicate detection.
+A desktop application designed for smart file organization, semantic search, and duplicate detection.
 
 - Semantic file search
 - SHA-256 based duplicate detection
 - TF-IDF and Cosine Similarity
 - File organization and risk detection
 
-**Tech Stack:** Python · SQLite · Scikit-learn
+**Technologies:** Python · SQLite · Scikit-learn
 
 <a href="https://github.com/muskanjoshi190/FileSense-AI">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,6 +126,7 @@ A desktop application for file organization, semantic search and duplicate detec
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -105,14 +134,14 @@ A desktop application for file organization, semantic search and duplicate detec
 
 **Data Analysis & Visualization**
 
-A practical repository covering Python data analysis and statistical operations.
+A practical repository covering Python programming for data analysis and statistical operations.
 
 - DataFrame operations
 - CSV data processing
 - Statistical analysis
 - Data visualization
 
-**Tech Stack:** Python · Pandas · NumPy · Matplotlib
+**Technologies:** Python · Pandas · NumPy · Matplotlib
 
 <a href="https://github.com/muskanjoshi190/Python-Data-Analytics-Practice">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
@@ -125,7 +154,7 @@ A practical repository covering Python data analysis and statistical operations.
 
 **Explore My Development Work**
 
-Find more coding practice, experiments and software development work in my GitHub repositories.
+Explore my GitHub repositories to discover more coding practice, experiments, and software development projects.
 
 <a href="https://github.com/muskanjoshi190?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -135,29 +164,39 @@ Find more coding practice, experiments and software development work in my GitHu
 </tr>
 </table>
 
-## EXPERIENCE & LEADERSHIP
+---
 
-**Java Full Stack Developer Trainee**  
+## 💼 EXPERIENCE & LEADERSHIP
+
+**Java Full Stack Developer Trainee**
+
 Infoviaan Technologies, Indore | March 2024 – June 2024
 
 - Practiced Java programming and Full Stack Development fundamentals.
 - Gained practical exposure to application development.
 
-**Technical Sub-Head — PIEMR AI Club**  
+**Technical Sub-Head — PIEMR AI Club**
+
 2025 – 2026
 
-- Coordinated technical events, workshops and learning sessions.
+- Coordinated technical events, workshops, and learning sessions.
 - Collaborated with team members to organize technical activities.
 
-## EDUCATION
+---
 
-**Bachelor of Technology — Computer Science & Engineering**
+## 🎓 EDUCATION
+
+**Bachelor of Technology (B.Tech)**
+
+Computer Science & Engineering
 
 Prestige Institute of Engineering, Management and Research (PIEMR), Indore
 
 2023 – 2027 | **CGPA: 7.66**
 
-## CERTIFICATIONS
+---
+
+## 📜 CERTIFICATIONS
 
 - Java Full Stack Development — Infoviaan Technologies
 - Design Thinking and Community-Based Design — IUCEE
@@ -172,16 +211,23 @@ Prestige Institute of Engineering, Management and Research (PIEMR), Indore
 
 <div align="center">
 
-## LET'S CONNECT
+## 🤝 LET'S CONNECT
+
+I'm always interested in learning new technologies, collaborating on projects, and exploring software development opportunities.
 
 <a href="https://www.linkedin.com/in/muskan-joshi-140310341">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/muskanjoshi190">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/muskanjoshi190">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 *Building skills. Creating solutions. Growing through technology.*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171C3A,50:3730A3,100:7C3AED&height=100&section=footer"/>
 
